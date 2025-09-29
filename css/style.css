@@ -34,11 +34,14 @@ header {
 }
 
 header h1 {
+    
     display: inline-block;
     margin-bottom: 0;
     vertical-align: middle;
     color: #1a1a1a;
+    text-shadow: 0 0 17px white;
     font-size: 2em;
+    
 }
 
 nav {
